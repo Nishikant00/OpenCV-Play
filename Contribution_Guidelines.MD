@@ -1,6 +1,6 @@
 ## Guidelines and Suggestions to Contribute : 🤚 🏗
 
-- **Don't push** anything to the root directory of the master branch. Always use specific subdirectories inside the [deeppixel](https://github.com/smaranjitghose/DeepPixel/tree/master/deeppixel) directory
+- **Don't push** anything to the root directory of the master branch. Always use specific subdirectories inside the [deeppixel](https://github.com/Nishikant00/master/OpenCV-Play) directory
 
 For each of the tasks:
 
@@ -20,7 +20,7 @@ For each of the tasks:
 - Look for better methods to improve 🥇 this or any other existing task
 - Try to curate a custom dataset 🧰 for your task or anyone of the task
 - Propose a new task!
-- Contribute to the Documentation of the project in terms of [ReadMe](https://github.com/smaranjitghose/DeepPixel/master/README.md), GitHub Pages📟 inside the `docs` subdirectory or working on sphinx for the documentation of the package
+- Contribute to the Documentation of the project in terms of [ReadMe](https://github.com/Nishikant00/OpenCV-Play/master/README.md), GitHub Pages📟 inside the `docs` subdirectory or working on sphinx for the documentation of the package
 
 - Work on structuring the entire work in the form of a python pacakge 📦
 - Fix any bugs you find! 🐛🔨
@@ -64,4 +64,4 @@ git push -u origin <your_branch_name>
 
 **8.** Create a Pull Request!
 
-**Congratulations!** You have just made your contribution to [OpenCv-Play]project
+**Congratulations!** You have just made your contribution to [OpenCv-Play] (https://github.com/Nishikant00/OpenCV-Play) project
