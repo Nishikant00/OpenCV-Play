@@ -1,6 +1,6 @@
 ## Guidelines and Suggestions to Contribute : 🤚 🏗
 
-- **Don't push** anything to the root directory of the master branch. Always use specific subdirectories inside the [deeppixel](https://github.com/Nishikant00/master/OpenCV-Play) directory
+- **Don't push** anything to the root directory of the master branch. Always use specific subdirectories inside the [opencv-play](https://github.com/Nishikant00/master/OpenCV-Play) directory
 
 For each of the tasks:
 
