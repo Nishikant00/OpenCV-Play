@@ -31,7 +31,7 @@ def emboss_effect(img):
     return cv2.filter2D(img, -1, kernel),output
 
 
-#construct the argument parse and parse the arguments
+#pyt
 ap = argparse.ArgumentParser()
 ap.add_argument("-i", "--image", required=True, help="path to input image")
 args = vars(ap.parse_args())
@@ -41,6 +41,9 @@ img = cv2.imread((args["image"]))
 # Convert to image with emboss effect
 output1,output2 = emboss_effect(img)
 # Save the  image
+cv2.imshow('Emboss Image1', output1)
+cv2.imshow('Emboss Image2', output2)
+k = cv2.waitKey(0)
 cv2.imwrite('assets/emboss_effect_grayscale.jpg',output2)
 cv2.imwrite('assets/emboss_effect_coloured.jpg',output1)
 print("Your results are ready!")
