@@ -14,17 +14,17 @@
 Do you want to add variety of fun effects to your boring images? If yes, you have landed to the right repository.😄😄 
 
 ## Demo
-<hr />
+Add effect | Original Image | After Effect Image
 
 ## How to run the project
-<hr />
+
 
 1. Clone/Download the repository.
 ```
 git clone https://github.com/Nishikant00/OpenCV-Play.git
 ```
 
-2. [Download & Isntall Python](https://www.python.org/downloads/)
+2. [Download & Install Python](https://www.python.org/downloads/)
 
 3. Open the terminal & go to the project directory.
 3. Now run
@@ -32,7 +32,7 @@ git clone https://github.com/Nishikant00/OpenCV-Play.git
 python effect_name.py --name [path of image]
 ```
 
-4. If ModuleNotFoundError arises, try installing the module with:
+4. If `ModuleNotFoundError` arises, try installing the module with:
 ```
 pip install module_name
 ```
