@@ -45,8 +45,8 @@ res_img1,res_img2 = cartoonize(img)
 cv2.imshow('Cartoon Image1', res_img1)
 cv2.imshow('Cartoon Image2', res_img2)
 k = cv2.waitKey(0)
-cv2.imwrite("assets/cartoon1.jpg", res_img1)
-cv2.imwrite("assets/black_and_wihte_cartoon.jpg", res_img2)
+cv2.imwrite("assets/cartoon_image.jpg", res_img1)
+cv2.imwrite("assets/black_and_white_cartoon.jpg", res_img2)
 
 
 print("Your results are ready!")

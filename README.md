@@ -13,11 +13,8 @@
 
 Do you want to add variety of fun effects to your boring images? If yes, you have landed to the right repository.😄😄 
 
-## Demo
-Add effect | Original Image | After Effect Image
-
+<!-- ![image](assets/cartoon_image.jpg) -->
 ## How to run the project
-
 
 1. Clone/Download the repository.
 ```
@@ -36,3 +33,16 @@ python effect_name.py --name [path of image]
 ```
 pip install module_name
 ```
+## Examples
+
+
+|            Effect         |           Original Image    |           Image with Effect                |
+|:----------------------------:|:-----------------------------:|:-------------------------------------:|
+|         Cartoon Effect Black & White         |<img src ="assets/image.jpg">|<img src = "assets/black_and_white_cartoon.jpg">  |
+|         Cartoon Effect Colored        |<img src ="assets/image.jpg">|<img src = "assets/cartoon_colored.jpg">  |
+|         Emboss Effect Colored        |<img src ="assets/image.jpg">|<img src = "assets/emboss_effect_coloured.jpg">  |
+|         Emboss Effect Grayscale        |<img src ="assets/image.jpg">|<img src = "assets/emboss_effect_grayscale.jpg">  |
+|    Negative    |<img src ="assets/image.jpg">|<img src = "assets/negative.jpg">  |
+|          Sepia Effect            |<img src ="assets/image.jpg">|<img src = "assets/sepia_effect.jpg">      |
+|         Water Color Effect         |<img src ="assets/image.jpg">|<img src = "assets/water_coloring.jpg">  |
+  
