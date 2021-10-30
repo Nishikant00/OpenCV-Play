@@ -38,11 +38,11 @@ pip install module_name
 
 |            Effect         |           Original Image    |           Image with Effect                |
 |:----------------------------:|:-----------------------------:|:-------------------------------------:|
-|         Cartoon Effect Black & White         |<img src ="assets/image.jpg">|<img src = "assets/black_and_white_cartoon.jpg">  |
-|         Cartoon Effect Colored        |<img src ="assets/image.jpg">|<img src = "assets/cartoon_colored.jpg">  |
-|         Emboss Effect Colored        |<img src ="assets/image.jpg">|<img src = "assets/emboss_effect_coloured.jpg">  |
-|         Emboss Effect Grayscale        |<img src ="assets/image.jpg">|<img src = "assets/emboss_effect_grayscale.jpg">  |
-|    Negative    |<img src ="assets/image.jpg">|<img src = "assets/negative.jpg">  |
-|          Sepia Effect            |<img src ="assets/image.jpg">|<img src = "assets/sepia_effect.jpg">      |
-|         Water Color Effect         |<img src ="assets/image.jpg">|<img src = "assets/water_coloring.jpg">  |
+|         Cartoon Effect Black & White         |<img src ="assets/image.jpg" width=100>|<img src = "assets/black_and_white_cartoon.jpg" width=100>  |
+|         Cartoon Effect Colored        |<img src ="assets/image.jpg" width=100>|<img src = "assets/cartoon_colored.jpg" width=100>  |
+|         Emboss Effect Colored        |<img src ="assets/image.jpg" width=100>|<img src = "assets/emboss_effect_coloured.jpg" width=100>  |
+|         Emboss Effect Grayscale        |<img src ="assets/image.jpg" width=100>|<img src = "assets/emboss_effect_grayscale.jpg" width=100>  |
+|    Negative    |<img src ="assets/image.jpg" width=100>|<img src = "assets/negative.jpg" width=100>  |
+|          Sepia Effect            |<img src ="assets/image.jpg" width=100>|<img src = "assets/sepia_effect.jpg" width=100>      |
+|         Water Color Effect         |<img src ="assets/image.jpg" width=100>|<img src = "assets/water_coloring.jpg" width=100>  |
   
