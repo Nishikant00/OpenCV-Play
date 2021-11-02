@@ -36,6 +36,6 @@ def dodging(x,y):
   return cv2.divide(x,255-y,scale=256)
 
 final=dodging(gray,smoothing)
-
+cv2.imwrite("assets/black&white_image.jpg", final)
 cv2_imshow(final)
 

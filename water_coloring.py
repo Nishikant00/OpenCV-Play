@@ -30,6 +30,8 @@ k = cv2.waitKey(0)
 # If Esc key is pressed
 if k == 27 or k == ord('q'):
     # Save the image in the desired path
-    cv2.imwrite('assets/water_coloring.jpg', water_color_img)
+    cv2.imwrite("assets/water_coloring.jpg", water_color_img)
     #close all the opened windows
     cv2.destroyAllWindows()
+
+cv2.imwrite("assets/water_coloring.jpg", water_color_img)

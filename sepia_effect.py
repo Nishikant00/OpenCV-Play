@@ -2,6 +2,8 @@
 import argparse
 from PIL import Image, ImageDraw
 from tqdm import tqdm
+import cv2
+
 def get_pixel(image, i, j):
     width, height = image.size
     if i > width or j > height: # If dimensions are in bounds
@@ -50,5 +52,8 @@ args = vars(ap.parse_args())
 img = Image.open((args["image"]))
 # Convert to sepia
 sepia_img = convert_sepia(img)
+# cv2.imshow('Sepia Image1', sepia_img)
+
+k = cv2.waitKey(0)
 # Save the  image
 sepia_img.save('assets/sepia_effect.jpg', 'JPEG')
